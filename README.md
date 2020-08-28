@@ -17,8 +17,10 @@ Dallins website
       <li>Adventure Reels</li>
       <li>Promotion</li>
       <li>Intimate</li>
-      <ul><p><li>Vactions</li></p>
-        <img src="  />
-        <p><li>Weddings</li></p></ul>
+       <ol>
+        <p><li>Vactions</li></p>
+        <p><li>Weddings</li></p>
+       </ol>
     </ul>
+      <img src="/>
   </body>
