@@ -11,6 +11,7 @@ Dallins website
   </div>
   <div>
     <h1>Media</h1>
+    <p><li><img src="https://user-images.githubusercontent.com/68889514/91535632-abb79c00-e8d0-11ea-82d5-4dcecd065061.JPG" width="320" height="200"/></li></p>
     <h2>Production Portfolio</h2>
     <ul>
       <li>Product Campagins</li>
@@ -22,5 +23,5 @@ Dallins website
         <p><li>Weddings</li></p>
        </ol>
     </ul>
-      <img src="/>
+  
   </body>
