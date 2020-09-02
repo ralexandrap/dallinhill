@@ -6,7 +6,6 @@
   
 <head>
 <link href="stylesheet.css" type="text/css" rel="stylesheet"/> 
-  <title> Portfolio</title>
 </head>  
 
 <body>
