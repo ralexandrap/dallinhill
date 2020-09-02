@@ -1,10 +1,11 @@
 # dallinhill
 <!DOCTYPE html>
-Dallins website
 <html>
   
+<h1>Dallins website</h1>
+  
 <head>
-<link rel="./stylesheet" type="text/css" href="stylesheet.css" /> 
+<link href="stylesheet.css" type="text/css" rel="stylesheet"/> 
   <title> Portfolio</title>
 </head>  
 
