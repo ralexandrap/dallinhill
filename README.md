@@ -1,5 +1,13 @@
 # dallinhill
+<!DOCTYPE html>
 Dallins website
+<html>
+  
+<head>
+<link rel="./stylesheet" type="text/css" href="stylesheet.css" /> 
+  <title> Portfolio</title>
+</head>  
+
 <body>
   <div>
     <h1><em>Do not forget to shut the door</em></h1>
